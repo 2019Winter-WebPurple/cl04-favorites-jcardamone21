@@ -1,0 +1,24 @@
+/*
+* Jennifer Cardamone
+* Due Date
+* My Favorite Things
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+}
+
+figure { float: left; }
+
+#friends { height: 500px; width: 400px; }
+
+#mom { height: 300px; width: 400px; }
+
+#music { height: 300px; width: 300px; }
